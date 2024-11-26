@@ -1,0 +1,14 @@
+git push -u nanoka main
+git push -u nanoka main
+git push -u nanoka main
+git push -u nanoka main
+git push -u nanoka main
+git push -u nanoka main
+git push -u nanoka main
+git push -u nanoka main
+git push -u nanoka main
+git push -u nanoka main
+git push -u nanoka main
+git push -u nanoka main
+git push -u nanoka main
+git push -u nanoka main
